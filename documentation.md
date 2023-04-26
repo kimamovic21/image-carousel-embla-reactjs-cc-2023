@@ -10,3 +10,13 @@
 10. u terminalu instaliramo autoplay plugin za embla carousel - npm install embla-carousel-autoplay --save
 11. kreiramo EmblaCarousel2.jsx komponentu unutar koje se nalazi Autoplay plugin
 12. u EmblaCarousel2 komponenti mozem oumjesto loop: false  da npravimo izmjenu i napisemo loop: true
+
+
+Github pages:
+
+1. npm i gh-pages --save-dev
+2. package.json -> "homepage": "https://kimamovic21.github.io/image-carousel-embla-reactjs-cc-2023"
+3. package.json -> "predeploy": "npm run build"
+4. package.json -> "deploy": "gh-pages -d build"
+5. git remote add origin  https://github.com/kimamovic21/image-carousel-embla-reactjs-cc-2023.git
+6. npm run deploy
