@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-carousel-embla-reactjs-cc-2023/static/css/main.0ef49a70.css",
+    "main.js": "/image-carousel-embla-reactjs-cc-2023/static/js/main.f7ff7350.js",
+    "index.html": "/image-carousel-embla-reactjs-cc-2023/index.html",
+    "main.0ef49a70.css.map": "/image-carousel-embla-reactjs-cc-2023/static/css/main.0ef49a70.css.map",
+    "main.f7ff7350.js.map": "/image-carousel-embla-reactjs-cc-2023/static/js/main.f7ff7350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef49a70.css",
+    "static/js/main.f7ff7350.js"
+  ]
+}
